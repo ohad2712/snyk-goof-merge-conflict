@@ -1,0 +1,1 @@
+# snyk-goof-merge-conflict
