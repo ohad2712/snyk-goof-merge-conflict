@@ -1,1 +1,1 @@
-first text to mess with
+a whole different text to be facing a conflict after 1 is merged
